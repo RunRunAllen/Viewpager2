@@ -30,7 +30,7 @@ class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewPagerHolder> {
 
     @Override
     public int getItemCount() {
-        return 20;
+        return 4;
     }
 
     class ViewPagerHolder extends RecyclerView.ViewHolder {
